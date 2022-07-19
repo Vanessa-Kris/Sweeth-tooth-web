@@ -1,0 +1,12 @@
+.container-fluid {
+    background-color: black;
+}
+.container {
+    background-color: black;
+}
+
+.card-img {
+    height: 150vh;
+    width: 100%;
+    justify-self: center;
+}
