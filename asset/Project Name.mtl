@@ -1,0 +1,8 @@
+newmtl Prestige_1bb6ac75-97e6-400f-9bb0-89a8c15bcec0
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Linear_Gradient_Texture.jpg
+newmtl Havana_d6a459b3-0730-48fc-8ea7-f449ff99bd3c
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Radial_Gradient_Texture.jpg
