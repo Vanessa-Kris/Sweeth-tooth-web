@@ -387,19 +387,19 @@ section {
     display: block;
 }
 
-.food-item-wrap.salad>div.salad-type {
+.food-item-wrap.cake>div.cake-type {
     display: block;
 }
 
-.food-item-wrap.lorem>div.lorem-type {
+.food-item-wrap.donut>div.donut-type {
     display: block;
 }
 
-.food-item-wrap.ipsum>div.ipsum-type {
+.food-item-wrap.ice-cream>div.ice-cream-type {
     display: block;
 }
 
-.food-item-wrap.dolor>div.dolor-type {
+.food-item-wrap.snacks>div.snacks-type {
     display: block;
 }
 
