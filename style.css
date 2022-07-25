@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #0F9D58;
+    --primary-color: #924985;
     --background-color: #f0f3f7;
     --secon-color: #9da2ad;
     --grey: #7a7a7b;
@@ -332,7 +332,7 @@ section {
 }
 
 .footer h1 {
-    color: var(--primary-color);
+    color: var(--white);
 }
 
 .input-group {
@@ -348,7 +348,7 @@ section {
     flex: auto;
     outline: none;
     border: none;
-    color: var(--primary-color);
+    color: var(--white);
     background-color: transparent;
 }
 
