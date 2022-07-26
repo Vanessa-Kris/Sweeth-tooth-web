@@ -132,6 +132,11 @@ section {
     color: var(--primary-color);
 }
 
+.slogan p {
+    font-size: 18px;
+    color: #1d1d1d;
+}
+
 .slogan button {
     padding: 1rem 5rem;
     outline: none;
