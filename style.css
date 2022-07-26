@@ -339,6 +339,13 @@ section {
 .footer h1 {
     color: var(--white);
 }
+.icons a {
+    font-size: 20px;
+    padding: 6px;
+}
+.icons a:hover {
+    color: #f37777;
+}
 
 .input-group {
     padding: 1rem;
