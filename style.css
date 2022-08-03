@@ -639,7 +639,7 @@ section {
     .mb-move-item {
         position: absolute;
         left: 0;
-        width: 25%;
+        width: 18%;
         height: 100%;
         background-color: var(--primary-color);
         transition: .5s ease-in-out;
